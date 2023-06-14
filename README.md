@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Dhungana</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FThisIs-Developer&psig=AOvVaw0_1_gk4_8N-XmglMV5CyIY&ust=1686805854116000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDRu9H_wf8CFQAAAAAdAAAAABAZ">
+<img align="right" width="400px" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FThisIs-Developer&psig=AOvVaw0_1_gk4_8N-XmglMV5CyIY&ust=1686805854116000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDRu9H_wf8CFQAAAAAdAAAAABAZ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravdhungana1&label=Profile%20views&color=0e75b6&style=flat" alt="sauravdhungana1" /> </p>
 
